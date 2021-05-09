@@ -1,0 +1,150 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+#editing_comp	src/style/component/editingComp/EditingComp.scss	/^#editing_comp {$/;"	i
+#editing_comp	src/style/component/editingComp/EditingComp.scss	/^#editing_comp > textarea {$/;"	i
+#file_bar	src/style/component/Showfile/Filebar.scss	/^#file_bar {$/;"	i
+div	src/style/component/Showfile/Filebar.scss	/^div {$/;"	t
+#file_bar	src/style/component/Showfile/Filebar.scss	/^#file_bar > li {$/;"	i
+#file_bar	src/style/component/Showfile/Filebar.scss	/^#file_bar > li > a {$/;"	i
+#file_bar	src/style/component/Showfile/Filebar.scss	/^#file_bar > li > a:hover {$/;"	i
+#show_file	src/style/component/Showfile/Showfile.scss	/^#show_file {$/;"	i
+#show_file	src/style/component/Showfile/Showfile.scss	/^#show_file > li {$/;"	i
+#show_file	src/style/component/Showfile/Showfile.scss	/^#show_file > li > a .dropbtn {$/;"	i
+#show_file	src/style/component/Showfile/Showfile.scss	/^#show_file > li > a:hover {$/;"	i
+.dropdown-content	src/style/component/Showfile/Showfile.scss	/^.dropdown-content {$/;"	c
+.dropdown-content	src/style/component/Showfile/Showfile.scss	/^.dropdown-content a {$/;"	c
+.dropdown-content	src/style/component/Showfile/Showfile.scss	/^.dropdown-content a:hover {background-color: #f1f1f1}$/;"	c
+.dropdown	src/style/component/Showfile/Showfile.scss	/^.dropdown:hover .dropdown-content {$/;"	c
+.float_constainver	src/style/Starting.scss	/^.float_constainver {$/;"	c
+.left_side	src/style/Starting.scss	/^.left_side {$/;"	c
+.right_side	src/style/Starting.scss	/^.right_side {$/;"	c
+body	src/style/app.scss	/^body {$/;"	t
+#navbar	src/style/app.scss	/^#navbar {$/;"	i
+div	src/style/app.scss	/^div {$/;"	t
+#navbar	src/style/app.scss	/^#navbar > li {$/;"	i
+#navbar	src/style/app.scss	/^#navbar > li > a {$/;"	i
+#navbar	src/style/app.scss	/^#navbar > li > a:hover {$/;"	i
+type	src/reducers/index.js	/^import * as type from ".\/..\/type\/message";$/;"	I
+initial_state	src/reducers/index.js	/^const initial_state = {$/;"	O
+Root	src/reducers/index.js	/^    Root: {$/;"	P
+index	src/reducers/index.js	/^        index: {$/;"	P
+index	src/reducers/index.js	/^            index : {$/;"	P
+app	src/reducers/index.js	/^            app : {$/;"	P
+Root	src/reducers/index.js	/^                    Root: {$/;"	P
+index	src/reducers/index.js	/^                        index: {$/;"	P
+index	src/reducers/index.js	/^                            index : {$/;"	P
+app	src/reducers/index.js	/^                            app : {$/;"	P
+reducer	src/reducers/index.js	/^                        reducer : {$/;"	P
+reducer	src/reducers/index.js	/^                            reducer: {$/;"	P
+activePath	src/reducers/index.js	/^                    activePath: [],$/;"	P
+path	src/reducers/index.js	/^                    path: []$/;"	P
+reducer	src/reducers/index.js	/^        reducer : {$/;"	P
+reducer	src/reducers/index.js	/^            reducer: {$/;"	P
+activePath	src/reducers/index.js	/^    activePath: [],$/;"	P
+path	src/reducers/index.js	/^    path: []$/;"	P
+path	src/reducers/index.js	/^            const path = newState.path;$/;"	V
+for	src/reducers/index.js	/^            for(var i=0;i<path.length; i++) {$/;"	M
+if	src/reducers/index.js	/^                if(action.payload.equals(path[i])) {$/;"	M
+path	src/reducers/index.js	/^            const path = [...newState.path];$/;"	A
+newPaths	src/reducers/index.js	/^            const newPaths = path.filter(p => !(p.equals(action.payload)));$/;"	F
+activePath	src/reducers/index.js	/^            let activePath = newState.activePath;$/;"	V
+pathCopy	src/reducers/index.js	/^            const pathCopy = newState.activePath;$/;"	V
+objCopy	src/reducers/index.js	/^            let objCopy = newState;$/;"	V
+for	src/reducers/index.js	/^            for(var i=0; i<pathCopy.length; i++) {$/;"	M
+obj	src/reducers/index.js	/^            let obj = newState;$/;"	V
+for	src/reducers/index.js	/^            for(var i=0; i<path.length; i++) {$/;"	M
+reqObj	src/reducers/index.js	/^            let reqObj = newState;$/;"	V
+for	src/reducers/index.js	/^            for(var i=0; i<path.length; i++) {$/;"	M
+reqObj	src/reducers/index.js	/^            let reqObj = newState;$/;"	V
+for	src/reducers/index.js	/^            for(var i=0; i<path.length; i++) {$/;"	M
+if	src/reducers/index.js	/^            if(action.folder) {$/;"	M
+folder	src/reducers/index.js	/^                const folder = {$/;"	O
+if	src/reducers/index.js	/^            if(!action.folder) {$/;"	M
+file	src/reducers/index.js	/^                const file = {$/;"	O
+a	src/reducers/index.js	/^            let a = newState;$/;"	V
+b	src/reducers/index.js	/^            let b;$/;"	V
+for	src/reducers/index.js	/^            for(var i=0; i<path.length; i++) {$/;"	M
+fileBarPaths	src/reducers/index.js	/^                const fileBarPaths = [...newState.path];$/;"	A
+newPaths	src/reducers/index.js	/^                const newPaths = fileBarPaths.filter(p => !(p.equals(path)));$/;"	F
+body	src/index.css	/^body {$/;"	t
+ADD_TO_FILEBAR	src/type/message.js	/^export const ADD_TO_FILEBAR = "ADD_TO_FILEBAR";$/;"	E
+REMOVE_FROM_FILEBAR	src/type/message.js	/^export const REMOVE_FROM_FILEBAR = "REMOVE_FROM_FILEBAR";$/;"	E
+ADD_NEW_FILE_OR_FOLDER	src/type/message.js	/^export const ADD_NEW_FILE_OR_FOLDER = "ADD_NEW_FILE_OR_FOLDER";$/;"	E
+ADD_NEW_FILE_OR_FOLDER_INPUT	src/type/message.js	/^export const ADD_NEW_FILE_OR_FOLDER_INPUT = "ADD_NEW_FILE_OR_FOLDER_INPUT";$/;"	E
+ADD_NEW_FILE_OR_FOLDER_INPUT_SAVE	src/type/message.js	/^export const ADD_NEW_FILE_OR_FOLDER_INPUT_SAVE = "ADD_NEW_FILE_OR_FOLDER_INPUT_SAVE";$/;"	E
+REMOVE_FILE_OR_FOLDER	src/type/message.js	/^export const REMOVE_FILE_OR_FOLDER = "REMOVE_FILE_OR_FOLDER";$/;"	E
+ACTIVATE_EDITING_FILE	src/type/message.js	/^export const ACTIVATE_EDITING_FILE = "ACTIVATE_EDITING_FILE";$/;"	E
+CHANGING_EDITING_FILE	src/type/message.js	/^export const CHANGING_EDITING_FILE = "CHANGING_EDITING_FILE";/;"	E
+.App	src/App.css	/^.App {$/;"	c
+.App-logo	src/App.css	/^.App-logo {$/;"	c
+.App-header	src/App.css	/^.App-header {$/;"	c
+.App-title	src/App.css	/^.App-title {$/;"	c
+.App-intro	src/App.css	/^.App-intro {$/;"	c
+from	src/App.css	/^  from { transform: rotate(0deg); }$/;"	t
+to	src/App.css	/^  to { transform: rotate(360deg); }$/;"	t
+equals	src/index.js	/^Array.prototype.equals = function(arr) {$/;"	M
+for	src/index.js	/^    for(var i = 0; i < this.length; i++) {$/;"	M
+if	src/index.js	/^        if(this[i] instanceof Array && arr[i] instanceof Array) {$/;"	M
+types	src/actions/actions.js	/^import * as types from ".\/..\/type\/message";$/;"	I
+add_to_filebar	src/actions/actions.js	/^export const add_to_filebar = (path) => {$/;"	E
+payload	src/actions/actions.js	/^            payload : path$/;"	P
+remove_from_filebar	src/actions/actions.js	/^export const remove_from_filebar = (path) => {$/;"	E
+payload	src/actions/actions.js	/^            payload : path$/;"	P
+add_new_file_or_folder	src/actions/actions.js	/^export const add_new_file_or_folder = (path) => {$/;"	E
+payload	src/actions/actions.js	/^            payload : path$/;"	P
+add_new_file_or_folder_input	src/actions/actions.js	/^export const add_new_file_or_folder_input = (path, value) => {$/;"	E
+value	src/actions/actions.js	/^export const add_new_file_or_folder_input = (path, value) => {$/;"	E
+payload	src/actions/actions.js	/^            payload : path,$/;"	P
+value	src/actions/actions.js	/^            value : value$/;"	P
+add_new_file_or_folder_input_save	src/actions/actions.js	/^export const add_new_file_or_folder_input_save = (path, folder) => {$/;"	E
+folder	src/actions/actions.js	/^export const add_new_file_or_folder_input_save = (path, folder) => {$/;"	E
+payload	src/actions/actions.js	/^            payload: path,$/;"	P
+folder	src/actions/actions.js	/^            folder: folder$/;"	P
+remove_file_or_folder	src/actions/actions.js	/^export const remove_file_or_folder = (path) => {$/;"	E
+payload	src/actions/actions.js	/^            payload : path$/;"	P
+activate_editing_file	src/actions/actions.js	/^export const activate_editing_file = (path) => {$/;"	E
+payload	src/actions/actions.js	/^            payload : path$/;"	P
+changing_editing_file	src/actions/actions.js	/^export const changing_editing_file = (value) => {$/;"	E
+payload	src/actions/actions.js	/^            payload: value$/;"	P
+Root	src/Root.js	/^class Root extends Component {$/;"	C
+render	src/Root.js	/^  render() {$/;"	M
+EditingComp	src/container/editingComp/EditingComp.js	/^class EditingComp extends React.Component{$/;"	C
+render	src/container/editingComp/EditingComp.js	/^    render() {$/;"	M
+for	src/container/editingComp/EditingComp.js	/^        for(var i=0; i<path.length; i++) {$/;"	M
+$blockScrolling	src/container/editingComp/EditingComp.js	/^                        $blockScrolling: true$/;"	P
+App	src/container/App.js	/^class App extends React.Component {$/;"	C
+render	src/container/App.js	/^    render() {$/;"	M
+Filebar	src/container/showfile/Filebar.js	/^class Filebar extends React.Component{$/;"	C
+contentOfFilebar	src/container/showfile/Filebar.js	/^    contentOfFilebar(data, index) {$/;"	M
+render	src/container/showfile/Filebar.js	/^    render() {$/;"	M
+Showfile	src/container/showfile/Showfile.js	/^class Showfile extends React.Component{$/;"	C
+constructor	src/container/showfile/Showfile.js	/^    constructor(props) {$/;"	M
+folder	src/container/showfile/Showfile.js	/^    folder(folder, fileName, path) {$/;"	M
+arr	src/container/showfile/Showfile.js	/^        const arr = [];$/;"	A
+if	src/container/showfile/Showfile.js	/^        if(folder.type == "folder") {$/;"	M
+fileArr	src/container/showfile/Showfile.js	/^            const fileArr = []$/;"	A
+for	src/container/showfile/Showfile.js	/^            for(var prop in folder) {$/;"	M
+if	src/container/showfile/Showfile.js	/^        if(folder.type == "file") {$/;"	M
+render	src/container/showfile/Showfile.js	/^    render() {$/;"	M
+Starting	src/container/Starting.js	/^class Starting extends Component {$/;"	C
+render	src/container/Starting.js	/^    render() {$/;"	M
+exports	webpack.config.js	/^module.exports = {$/;"	P
+resolve	webpack.config.js	/^    resolve: {$/;"	P
+extensions	webpack.config.js	/^        extensions: ['*' , '.js' , '.jsx' , '.json']$/;"	P
+entry	webpack.config.js	/^    entry: {$/;"	P
+output	webpack.config.js	/^    output: {$/;"	P
+plugins	webpack.config.js	/^    plugins: [$/;"	P
+title	webpack.config.js	/^                title: "Environment",$/;"	P
+devtool	webpack.config.js	/^    devtool: "inline-source-map",$/;"	P
+devServer	webpack.config.js	/^    devServer: {$/;"	P
+module	webpack.config.js	/^    module: {$/;"	P
+rules	webpack.config.js	/^        rules:  [$/;"	P
+test	webpack.config.js	/^                test: \/(\\.js|\\.jsx)$\/,$/;"	P
+exclude	webpack.config.js	/^                exclude: \/node_modules\/,$/;"	P
+use	webpack.config.js	/^                use:{$/;"	P
+test	webpack.config.js	/^                test: \/(\\.scss|\\.css|\\.sass)$\/,$/;"	P
+use	webpack.config.js	/^                use: ['style-loader','css-loader','sass-loader']$/;"	P
