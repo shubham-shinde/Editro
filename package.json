@@ -51,6 +51,6 @@
     "xml-loader": "^1.2.1"
   },
   "dependencies": {
-    "prismjs": "^1.12.2"
+    "prismjs": "^1.25.0"
   }
 }
