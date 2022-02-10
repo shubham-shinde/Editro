@@ -31,7 +31,7 @@
     "file-loader": "^1.1.9",
     "fs": "^0.0.1-security",
     "html-webpack-plugin": "3.0.6",
-    "node-sass": "^4.7.2",
+    "node-sass": "^7.0.0",
     "path": "^0.12.7",
     "proptypes": "^1.1.0",
     "react": "^16.2.0",
